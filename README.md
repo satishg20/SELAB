@@ -1,2 +1,0 @@
-# SELAB
-maven java 
